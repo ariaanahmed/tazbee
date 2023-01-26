@@ -26,10 +26,10 @@ decrement.addEventListener('click', () => {
 // sound effets
 
 var audio = new Audio();
-audio.src = "/sounds/click.mp3";
+audio.src = "sounds/click.mp3";
 
 var sound2 = new Audio();
-sound2.src = "/sounds/minus.mp3";
+sound2.src = "sounds/minus.mp3";
 
 var sound3 = new Audio();
-sound3.src = "/sounds/reset.mp3";
+sound3.src = "sounds/reset.mp3";
